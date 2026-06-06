@@ -1,3 +1,3 @@
 import test as ts
 
-a
+ts.a
