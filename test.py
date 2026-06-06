@@ -1,3 +1,2 @@
-def a(){
+def a():
   print("aaaa")
-}
